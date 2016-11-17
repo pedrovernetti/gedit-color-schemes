@@ -44,7 +44,7 @@ Clone the git repository with
 
 ## Uninstall
 
-#### Manual
+#### For manual installations
 
 Run:
 
