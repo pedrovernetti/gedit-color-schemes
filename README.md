@@ -24,8 +24,8 @@ This pack contains some gedit color schemes I've made, shared under **MIT Licens
 
 ## Installation (manual)
 
-Place the .xml files (or links to them) at `~/.local/share/gedit/styles`.
-For this, run:
+Place the .xml files or links to them at `~/.local/share/gedit/styles`.
+For this (placing the actual files), run:
 
 `wget -c -O ~/pv-gedit-schemes.zip https://github.com/pedrovernetti/gedit-color-schemes/archive/master.zip`
 
