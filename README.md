@@ -28,6 +28,7 @@ Place the .xml files (or links to them) at `~/.local/share/gedit/styles`.
 For this, run:
 
 `wget -c -O ~/pv-gedit-schemes.zip https://github.com/pedrovernetti/gedit-color-schemes/archive/master.zip`
+
 `unzip -j ~/pv-gedit-schemes.zip *.xml -d ~/.local/share/gedit/styles ; rm -f ~/pv-gedit-schemes.zip`
 
 (you may need to exit gedit and open it again)
