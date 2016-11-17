@@ -22,7 +22,9 @@ This pack contains some gedit color schemes I've made, shared under **MIT Licens
 
 ![Sample code](https://github.com/pedrovernetti/gedit-color-schemes/raw/master/Screenshots/Wizardry_code.png)
 
-## Installation (manual)
+## Installation
+
+#### Manual
 
 Place the .xml files or links to them at `~/.local/share/gedit/styles`.
 For this (placing the actual files), run:
@@ -34,13 +36,15 @@ For this (placing the actual files), run:
 (you may need to exit gedit and open it again)
 Then, on a gedit window, go to __Edit__ > __Preferences__ > __Font & Colors__ and you will see a **Color Scheme** list. Click the desired scheme and close the Preferences window.
 
-#### 1. Get the source
+#### Get the source
 
 Clone the git repository with
 
 `git clone https://github.com/pedrovernetti/gedit-color-schemes --depth 1 && cd gedit-color-schemes`
 
-## Uninstall (manual)
+## Uninstall
+
+#### Manual
 
 Run:
 
