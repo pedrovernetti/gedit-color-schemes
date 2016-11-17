@@ -42,7 +42,7 @@ Then, on a gedit window, go to __Edit__ > __Preferences__ > __Font & Colors__ an
 
 Run:
 
-`cd ~/.local/share/gedit/styles; rm -f argent.xml eldritch.xml wizardry.xml`
+`rm -f ~/.local/share/gedit/styles/{argent,eldritch,wizardry}.xml`
 
 ## Bugs
 If you find a bug, please report it at https://github.com/pedrovernetti/gedit-color-schemes/issues
