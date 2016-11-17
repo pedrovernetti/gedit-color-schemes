@@ -36,12 +36,6 @@ For this (placing the actual files), run:
 (you may need to exit gedit and open it again)
 Then, on a gedit window, go to __Edit__ > __Preferences__ > __Font & Colors__ and you will see a **Color Scheme** list. Click the desired scheme and close the Preferences window.
 
-#### Get the source
-
-Clone the git repository with
-
-`git clone https://github.com/pedrovernetti/gedit-color-schemes --depth 1 && cd gedit-color-schemes`
-
 ## Uninstall
 
 #### For manual installations
