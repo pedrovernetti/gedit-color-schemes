@@ -29,9 +29,11 @@ This pack contains some gedit color schemes I've made, shared under **MIT Licens
 Place the .xml files or links to them at `~/.local/share/gedit/styles`.
 For this (placing the actual files), run:
 
-`wget -c -O ~/pv-gedit-schemes.zip https://github.com/pedrovernetti/gedit-color-schemes/archive/master.zip`
+`wget -c -O ~/pvgcs.zip https://github.com/pedrovernetti/gedit-color-schemes/archive/master.zip`
 
-`unzip -j ~/pv-gedit-schemes.zip *.xml -d ~/.local/share/gedit/styles ; rm -f ~/pv-gedit-schemes.zip`
+`mkdir -p ~/.local/share/gedit/styles`
+
+`unzip -j ~/pvgcs.zip *.xml -d ~/.local/share/gedit/styles ; rm -f ~/pvgcs`
 
 (you may need to exit gedit and open it again)
 Then, on a gedit window, go to __Edit__ > __Preferences__ > __Font & Colors__ and you will see a **Color Scheme** list. Click the desired scheme and close the Preferences window.
