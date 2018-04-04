@@ -33,7 +33,7 @@ For this (placing the actual files), run:
 
 `mkdir -p ~/.local/share/gedit/styles`
 
-`unzip -j ~/pvgcs.zip *.xml -d ~/.local/share/gedit/styles ; rm -f ~/pvgcs`
+`unzip -j ~/pvgcs.zip *.xml -d ~/.local/share/gedit/styles ; rm -f ~/pvgcs*`
 
 (you may need to exit gedit and open it again)
 Then, on a gedit window, go to __Edit__ > __Preferences__ > __Font & Colors__ and you will see a **Color Scheme** list. Click the desired scheme and close the Preferences window.
