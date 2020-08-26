@@ -16,6 +16,12 @@ This pack contains some gedit color schemes I've made, shared under **MIT Licens
 
 ![Sample code](https://github.com/pedrovernetti/gedit-color-schemes/raw/master/Screenshots/Eldritch_code.png)
 
+##### Occult
+
+![Sample text](https://github.com/pedrovernetti/gedit-color-schemes/raw/master/Screenshots/Occult_text.png)
+
+![Sample code](https://github.com/pedrovernetti/gedit-color-schemes/raw/master/Screenshots/Occult_code.png)
+
 ##### Wizardry
 
 ![Sample text](https://github.com/pedrovernetti/gedit-color-schemes/raw/master/Screenshots/Wizardry_text.png)
@@ -44,7 +50,7 @@ Then, on a gedit window, go to __Edit__ > __Preferences__ > __Font & Colors__ an
 
 Run:
 
-`rm -f ~/.local/share/gedit/styles/{argent,eldritch,wizardry}.xml`
+`rm -f ~/.local/share/gedit/styles/{argent,eldritch,occult,wizardry}.xml`
 
 ## Bugs
 If you find a bug, please report it at https://github.com/pedrovernetti/gedit-color-schemes/issues
