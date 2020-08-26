@@ -1,0 +1,41 @@
+<style-scheme name="Occult" id="occult" version="1.0">
+  <author>Pedro V.G.</author>
+  <description>Darkest color scheme using an arcane color palette</description>
+
+  <style name="text"                    foreground="#D3D7CF" background="#19191C" />
+  <style name="selection"               foreground="#EEEEEC" background="#888A85" />
+  <style name="cursor"                  foreground="#D3D7CF" />
+  <style name="current-line"            background="#232327" />
+  <style name="line-numbers"            foreground="#555753" background="#000000" />
+  <style name="draw-spaces"             foreground="#888A85" />
+  <style name="bracket-match"           foreground="#C17D11" bold="true" />
+  <style name="bracket-mismatch"        foreground="#EEEEEC" background="#CC0000" bold="true" />
+  <style name="right-margin"            foreground="#EEEEEC" background="#BABDB6" />
+  <style name="search-match"            foreground="#EEEEEC" background="#4E9A06" />
+  <style name="def:comment"             foreground="#888A85" italic="true" />
+  <style name="def:shebang"             foreground="#888A85" bold="true" />
+  <style name="def:doc-comment-element" italic="true" />
+  <style name="def:constant"            foreground="#028132" />
+  <style name="def:string"              foreground="#4EA658" />
+  <style name="def:special-char"        foreground="#388873" />
+  <style name="def:special-constant"    foreground="#CE5C00" />
+  <style name="def:floating-point"      foreground="#CE5C00" />
+  <style name="def:identifier"          foreground="#729FCF" />
+  <style name="def:statement"           foreground="#FFFFFF" bold="true" />
+  <style name="def:type"                foreground="#8AE234" bold="true" />
+  <style name="def:preprocessor"        foreground="#AD7FA8" />
+  <style name="def:error"               foreground="#EEEEEC" background="#CC0000" bold="true" />
+  <style name="def:warning"             foreground="#EEEEEC" background="#AD7FA8" />
+  <style name="def:note"                foreground="#000000" background="#F57900" bold="true" />
+  <style name="def:underlined"          italic="true"        underline="true" />
+  <style name="diff:added-line"         foreground="#EDD400" />
+  <style name="diff:removed-line"       foreground="#729FCF" />
+  <style name="diff:changed-line"       foreground="#AD7FA8" />
+  <style name="diff:diff-file"          foreground="#8AE234" bold="true" />
+  <style name="diff:location"           foreground="#8AE234" />
+  <style name="diff:special-case"       foreground="#FFFFFF" bold="true" />
+  <style name="latex:display-math"      foreground="#5C3566" />
+  <style name="latex:command"           foreground="#8AE234" bold="true" />
+  <style name="latex:include"           foreground="#AD7FA8" />
+  <style name="sh:variable"             foreground="#6EC1F9" />
+</style-scheme>
