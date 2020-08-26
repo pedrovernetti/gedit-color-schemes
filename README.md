@@ -16,12 +16,6 @@ This pack contains some gedit color schemes I've made, shared under **MIT Licens
 
 ![Sample code](https://github.com/pedrovernetti/gedit-color-schemes/raw/master/Screenshots/Eldritch_code.png)
 
-##### Occult
-
-![Sample text](https://github.com/pedrovernetti/gedit-color-schemes/raw/master/Screenshots/Occult_text.png)
-
-![Sample code](https://github.com/pedrovernetti/gedit-color-schemes/raw/master/Screenshots/Occult_code.png)
-
 ##### Wizardry
 
 ![Sample text](https://github.com/pedrovernetti/gedit-color-schemes/raw/master/Screenshots/Wizardry_text.png)
