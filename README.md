@@ -51,6 +51,6 @@ If you find a bug, please report it at https://github.com/pedrovernetti/gedit-co
 
 ## License
 
-As said, all the schemes are available under the terms of the MIT License. See `COPYING` for details.
+As said, all the schemes are available under the terms of the MIT License. See `LICENSE` for details.
 
 
