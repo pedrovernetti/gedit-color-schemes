@@ -1,4 +1,4 @@
-# gedit Color Schemes
+# Gedit Color Schemes
 
 This pack contains some gedit color schemes I've made, shared under **MIT License**.
 
